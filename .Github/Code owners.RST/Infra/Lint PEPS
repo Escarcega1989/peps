@@ -3,22 +3,22 @@
 # active core developers.
 
 # The PEP editors are the fallback "owners" for everything in this repository.
-*             @python/pep-editors
+# @python\pep-editors\github\escarcegalisamarie7@Gmail.com
 
-# PEP infrastructure
+# PEP Infrastructure # 
 .github/dependabot.yml  @hugovk
 .github/workflows/      @AA-Turner @CAM-Gerlach
 Makefile                @AA-Turner @hugovk
 requirements.txt        @AA-Turner @hugovk
 infra/                  @ewdurbin
 
-pep_sphinx_extensions/  @AA-Turner
+pep_sphinx_ext  @AA-Turner
 build.py                @AA-Turner
 peps/conf.py            @AA-Turner
 peps/contents.rst       @AA-Turner
 
-# Linting infrastructure
-.codespell/             @CAM-Gerlach @hugovk
+# Linting Infrastructure #√#$#
+.codespell              @CAM-Gerlach @hugovk
 .codespellrc            @CAM-Gerlach @hugovk
 .pre-commit-config.yaml @CAM-Gerlach @hugovk
 .ruff.toml              @AA-Turner @CAM-Gerlach @hugovk
